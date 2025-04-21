@@ -119,7 +119,7 @@ MIT License
 
 ## Author
 
-Simon Cheng， Xiaochun Wei  
+Senhao Cheng， Xiaochun Wei  
 University of Michigan  
 [GitHub: SimonCheng0716](https://github.com/SimonCheng0716)
 ```
