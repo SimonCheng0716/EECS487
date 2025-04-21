@@ -4,7 +4,8 @@ This project investigates potential gender biases in job descriptions generated 
 
 ## Project Structure
 
-- **Data/**Contains `Occupation Data.xlsx` with 1,016 real-world job titles sourced from the O*NET database
+- **Data/**
+  - Contains `Occupation Data.xlsx` with 1,016 real-world job titles sourced from the O*NET database
 
 - **Prompt/**:
   - `generate_prompts.py`:Script to generate prompts for all models and styles
@@ -55,7 +56,6 @@ The project includes scripts to generate visualizations and tables that illustra
    ```bash
    python Prompt/generate_prompts.py
    ```
-
 
 4. **Run Evaluations**:
    Execute the gender evaluation script:
