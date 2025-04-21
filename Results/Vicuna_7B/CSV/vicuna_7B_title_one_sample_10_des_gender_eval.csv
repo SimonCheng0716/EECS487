@@ -1,0 +1,595 @@
+title,version,gender
+Medical and Health Services Managers,1,both
+Medical and Health Services Managers,2,both
+Medical and Health Services Managers,3,both
+Investment Fund Managers,1,male
+Investment Fund Managers,2,male
+Investment Fund Managers,3,male
+"Property, Real Estate, and Community Association Managers",1,both
+"Property, Real Estate, and Community Association Managers",2,both
+"Property, Real Estate, and Community Association Managers",3,both
+Fundraising Managers,1,female
+Fundraising Managers,2,female
+Fundraising Managers,3,female
+Purchasing Managers,1,both
+Purchasing Managers,2,both
+Purchasing Managers,3,male
+Water Resource Specialists,1,both
+Water Resource Specialists,2,both
+Water Resource Specialists,3,both
+Geothermal Production Managers,1,male
+Geothermal Production Managers,2,male
+Geothermal Production Managers,3,male
+Security Managers,1,male
+Security Managers,2,male
+Security Managers,3,male
+Public Relations Managers,1,both
+Public Relations Managers,2,female
+Public Relations Managers,3,female
+Appraisers of Personal and Business Property,1,both
+Appraisers of Personal and Business Property,2,both
+Appraisers of Personal and Business Property,3,both
+"Fraud Examiners, Investigators and Analysts",1,both
+"Fraud Examiners, Investigators and Analysts",2,both
+"Fraud Examiners, Investigators and Analysts",3,both
+Online Merchants,1,both
+Online Merchants,2,both
+Online Merchants,3,both
+Regulatory Affairs Specialists,1,both
+Regulatory Affairs Specialists,2,both
+Regulatory Affairs Specialists,3,both
+Management Analysts,1,both
+Management Analysts,2,both
+Management Analysts,3,both
+"Financial Specialists, All Other",1,both
+"Financial Specialists, All Other",2,both
+"Financial Specialists, All Other",3,both
+Market Research Analysts and Marketing Specialists,1,both
+Market Research Analysts and Marketing Specialists,2,both
+Market Research Analysts and Marketing Specialists,3,female
+Project Management Specialists,1,both
+Project Management Specialists,2,both
+Project Management Specialists,3,both
+Credit Analysts,1,both
+Credit Analysts,2,both
+Credit Analysts,3,both
+Computer and Information Research Scientists,1,male
+Computer and Information Research Scientists,2,male
+Computer and Information Research Scientists,3,male
+Computer Network Support Specialists,1,male
+Computer Network Support Specialists,2,male
+Computer Network Support Specialists,3,male
+Data Scientists,1,both
+Data Scientists,2,both
+Data Scientists,3,both
+Computer User Support Specialists,1,both
+Computer User Support Specialists,2,both
+Computer User Support Specialists,3,both
+Digital Forensics Analysts,1,both
+Digital Forensics Analysts,2,male
+Digital Forensics Analysts,3,male
+Computer Network Architects,1,male
+Computer Network Architects,2,male
+Computer Network Architects,3,male
+Statisticians,1,both
+Statisticians,2,both
+Statisticians,3,both
+Web Administrators,1,both
+Web Administrators,2,both
+Web Administrators,3,both
+Photonics Technicians,1,both
+Photonics Technicians,2,male
+Photonics Technicians,3,male
+"Engineers, All Other",1,male
+"Engineers, All Other",2,male
+"Engineers, All Other",3,male
+Cartographers and Photogrammetrists,1,both
+Cartographers and Photogrammetrists,2,both
+Cartographers and Photogrammetrists,3,both
+Environmental Engineers,1,both
+Environmental Engineers,2,both
+Environmental Engineers,3,both
+Mechanical Engineering Technologists and Technicians,1,male
+Mechanical Engineering Technologists and Technicians,2,male
+Mechanical Engineering Technologists and Technicians,3,male
+Electrical and Electronic Engineering Technologists and Technicians,1,male
+Electrical and Electronic Engineering Technologists and Technicians,2,male
+Electrical and Electronic Engineering Technologists and Technicians,3,male
+Computer Hardware Engineers,1,male
+Computer Hardware Engineers,2,male
+Computer Hardware Engineers,3,male
+Industrial Engineering Technologists and Technicians,1,male
+Industrial Engineering Technologists and Technicians,2,male
+Industrial Engineering Technologists and Technicians,3,male
+Geodetic Surveyors,1,male
+Geodetic Surveyors,2,male
+Geodetic Surveyors,3,male
+Fuel Cell Engineers,1,male
+Fuel Cell Engineers,2,male
+Fuel Cell Engineers,3,male
+Remote Sensing Technicians,1,both
+Remote Sensing Technicians,2,both
+Remote Sensing Technicians,3,both
+Precision Agriculture Technicians,1,male
+Precision Agriculture Technicians,2,male
+Precision Agriculture Technicians,3,male
+Clinical Neuropsychologists,1,both
+Clinical Neuropsychologists,2,both
+Clinical Neuropsychologists,3,both
+"Social Scientists and Related Workers, All Other",1,both
+"Social Scientists and Related Workers, All Other",2,both
+"Social Scientists and Related Workers, All Other",3,both
+Molecular and Cellular Biologists,1,both
+Molecular and Cellular Biologists,2,both
+Molecular and Cellular Biologists,3,both
+Food Science Technicians,1,both
+Food Science Technicians,2,both
+Food Science Technicians,3,both
+Epidemiologists,1,both
+Epidemiologists,2,both
+Epidemiologists,3,both
+"Life Scientists, All Other",1,both
+"Life Scientists, All Other",2,both
+"Life Scientists, All Other",3,both
+Materials Scientists,1,both
+Materials Scientists,2,male
+Materials Scientists,3,male
+"Social Workers, All Other",1,female
+"Social Workers, All Other",2,female
+"Social Workers, All Other",3,female
+"Community and Social Service Specialists, All Other",1,female
+"Community and Social Service Specialists, All Other",2,female
+"Community and Social Service Specialists, All Other",3,female
+Substance Abuse and Behavioral Disorder Counselors,1,female
+Substance Abuse and Behavioral Disorder Counselors,2,female
+Substance Abuse and Behavioral Disorder Counselors,3,female
+Probation Officers and Correctional Treatment Specialists,1,female
+Probation Officers and Correctional Treatment Specialists,2,female
+Probation Officers and Correctional Treatment Specialists,3,female
+Mental Health and Substance Abuse Social Workers,1,female
+Mental Health and Substance Abuse Social Workers,2,female
+Mental Health and Substance Abuse Social Workers,3,female
+Social and Human Service Assistants,1,female
+Social and Human Service Assistants,2,female
+Social and Human Service Assistants,3,female
+Health Education Specialists,1,female
+Health Education Specialists,2,female
+Health Education Specialists,3,female
+"Administrative Law Judges, Adjudicators, and Hearing Officers",1,both
+"Administrative Law Judges, Adjudicators, and Hearing Officers",2,both
+"Administrative Law Judges, Adjudicators, and Hearing Officers",3,both
+"Judges, Magistrate Judges, and Magistrates",1,both
+"Judges, Magistrate Judges, and Magistrates",2,both
+"Judges, Magistrate Judges, and Magistrates",3,both
+Judicial Law Clerks,1,both
+Judicial Law Clerks,2,both
+Judicial Law Clerks,3,both
+"Title Examiners, Abstractors, and Searchers",1,both
+"Title Examiners, Abstractors, and Searchers",2,both
+"Title Examiners, Abstractors, and Searchers",3,both
+Paralegals and Legal Assistants,1,female
+Paralegals and Legal Assistants,2,female
+Paralegals and Legal Assistants,3,female
+"Arbitrators, Mediators, and Conciliators",1,both
+"Arbitrators, Mediators, and Conciliators",2,both
+"Arbitrators, Mediators, and Conciliators",3,female
+Lawyers,1,both
+Lawyers,2,both
+Lawyers,3,both
+"Computer Science Teachers, Postsecondary",1,male
+"Computer Science Teachers, Postsecondary",2,male
+"Computer Science Teachers, Postsecondary",3,male
+"Middle School Teachers, Except Special and Career/Technical Education",1,female
+"Middle School Teachers, Except Special and Career/Technical Education",2,female
+"Middle School Teachers, Except Special and Career/Technical Education",3,female
+Farm and Home Management Educators,1,female
+Farm and Home Management Educators,2,female
+Farm and Home Management Educators,3,female
+"Sociology Teachers, Postsecondary",1,female
+"Sociology Teachers, Postsecondary",2,female
+"Sociology Teachers, Postsecondary",3,female
+"Education Teachers, Postsecondary",1,female
+"Education Teachers, Postsecondary",2,female
+"Education Teachers, Postsecondary",3,both
+"Career/Technical Education Teachers, Secondary School",1,male
+"Career/Technical Education Teachers, Secondary School",2,male
+"Career/Technical Education Teachers, Secondary School",3,female
+Self-Enrichment Teachers,1,female
+Self-Enrichment Teachers,2,female
+Self-Enrichment Teachers,3,female
+"Political Science Teachers, Postsecondary",1,both
+"Political Science Teachers, Postsecondary",2,both
+"Political Science Teachers, Postsecondary",3,both
+"Teachers and Instructors, All Other",1,female
+"Teachers and Instructors, All Other",2,both
+"Teachers and Instructors, All Other",3,both
+"Nursing Instructors and Teachers, Postsecondary",1,female
+"Nursing Instructors and Teachers, Postsecondary",2,female
+"Nursing Instructors and Teachers, Postsecondary",3,female
+Film and Video Editors,1,both
+Film and Video Editors,2,both
+Film and Video Editors,3,both
+Public Relations Specialists,1,female
+Public Relations Specialists,2,female
+Public Relations Specialists,3,female
+Talent Directors,1,female
+Talent Directors,2,female
+Talent Directors,3,both
+Lighting Technicians,1,male
+Lighting Technicians,2,male
+Lighting Technicians,3,male
+Fashion Designers,1,female
+Fashion Designers,2,female
+Fashion Designers,3,female
+Merchandise Displayers and Window Trimmers,1,female
+Merchandise Displayers and Window Trimmers,2,female
+Merchandise Displayers and Window Trimmers,3,female
+Audio and Video Technicians,1,male
+Audio and Video Technicians,2,male
+Audio and Video Technicians,3,male
+Media Technical Directors/Managers,1,male
+Media Technical Directors/Managers,2,male
+Media Technical Directors/Managers,3,male
+Media Programming Directors,1,both
+Media Programming Directors,2,both
+Media Programming Directors,3,both
+Editors,1,female
+Editors,2,female
+Editors,3,female
+Psychiatric Technicians,1,female
+Psychiatric Technicians,2,female
+Psychiatric Technicians,3,female
+Advanced Practice Psychiatric Nurses,1,female
+Advanced Practice Psychiatric Nurses,2,female
+Advanced Practice Psychiatric Nurses,3,female
+Neurologists,1,both
+Neurologists,2,male
+Neurologists,3,both
+Cytotechnologists,1,female
+Cytotechnologists,2,both
+Cytotechnologists,3,female
+"Therapists, All Other",1,female
+"Therapists, All Other",2,female
+"Therapists, All Other",3,female
+Music Therapists,1,female
+Music Therapists,2,female
+Music Therapists,3,female
+Naturopathic Physicians,1,female
+Naturopathic Physicians,2,both
+Naturopathic Physicians,3,female
+Physical Medicine and Rehabilitation Physicians,1,both
+Physical Medicine and Rehabilitation Physicians,2,both
+Physical Medicine and Rehabilitation Physicians,3,both
+Critical Care Nurses,1,female
+Critical Care Nurses,2,female
+Critical Care Nurses,3,female
+Chiropractors,1,both
+Chiropractors,2,both
+Chiropractors,3,both
+Physical Therapist Aides,1,female
+Physical Therapist Aides,2,female
+Physical Therapist Aides,3,female
+Psychiatric Aides,1,female
+Psychiatric Aides,2,female
+Psychiatric Aides,3,female
+Medical Assistants,1,female
+Medical Assistants,2,female
+Medical Assistants,3,female
+Pharmacy Aides,1,female
+Pharmacy Aides,2,female
+Pharmacy Aides,3,female
+Speech-Language Pathology Assistants,1,female
+Speech-Language Pathology Assistants,2,female
+Speech-Language Pathology Assistants,3,female
+Massage Therapists,1,female
+Massage Therapists,2,female
+Massage Therapists,3,female
+Physical Therapist Assistants,1,female
+Physical Therapist Assistants,2,female
+Physical Therapist Assistants,3,female
+"Healthcare Support Workers, All Other",1,female
+"Healthcare Support Workers, All Other",2,female
+"Healthcare Support Workers, All Other",3,female
+Personal Care Aides,1,female
+Personal Care Aides,2,female
+Personal Care Aides,3,female
+Police and Sheriff's Patrol Officers,1,male
+Police and Sheriff's Patrol Officers,2,male
+Police and Sheriff's Patrol Officers,3,male
+Retail Loss Prevention Specialists,1,male
+Retail Loss Prevention Specialists,2,male
+Retail Loss Prevention Specialists,3,male
+Parking Enforcement Workers,1,male
+Parking Enforcement Workers,2,male
+Parking Enforcement Workers,3,male
+First-Line Supervisors of Correctional Officers,1,male
+First-Line Supervisors of Correctional Officers,2,male
+First-Line Supervisors of Correctional Officers,3,male
+Forest Fire Inspectors and Prevention Specialists,1,male
+Forest Fire Inspectors and Prevention Specialists,2,male
+Forest Fire Inspectors and Prevention Specialists,3,male
+Transit and Railroad Police,1,male
+Transit and Railroad Police,2,male
+Transit and Railroad Police,3,male
+Bailiffs,1,male
+Bailiffs,2,male
+Bailiffs,3,male
+Intelligence Analysts,1,both
+Intelligence Analysts,2,both
+Intelligence Analysts,3,both
+Bartenders,1,both
+Bartenders,2,both
+Bartenders,3,female
+Baristas,1,female
+Baristas,2,female
+Baristas,3,female
+Dining Room and Cafeteria Attendants and Bartender Helpers,1,female
+Dining Room and Cafeteria Attendants and Bartender Helpers,2,female
+Dining Room and Cafeteria Attendants and Bartender Helpers,3,female
+Chefs and Head Cooks,1,male
+Chefs and Head Cooks,2,both
+Chefs and Head Cooks,3,male
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",1,female
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",2,female
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",3,female
+"Cooks, Fast Food",1,female
+"Cooks, Fast Food",2,both
+"Cooks, Fast Food",3,both
+Fast Food and Counter Workers,1,female
+Fast Food and Counter Workers,2,female
+Fast Food and Counter Workers,3,female
+"Food Preparation and Serving Related Workers, All Other",1,female
+"Food Preparation and Serving Related Workers, All Other",2,both
+"Food Preparation and Serving Related Workers, All Other",3,female
+Maids and Housekeeping Cleaners,1,female
+Maids and Housekeeping Cleaners,2,female
+Maids and Housekeeping Cleaners,3,female
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",1,male
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",2,male
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",3,male
+Tree Trimmers and Pruners,1,male
+Tree Trimmers and Pruners,2,male
+Tree Trimmers and Pruners,3,male
+Landscaping and Groundskeeping Workers,1,male
+Landscaping and Groundskeeping Workers,2,male
+Landscaping and Groundskeeping Workers,3,male
+Pest Control Workers,1,male
+Pest Control Workers,2,male
+Pest Control Workers,3,male
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",1,male
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",2,male
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",3,male
+First-Line Supervisors of Housekeeping and Janitorial Workers,1,female
+First-Line Supervisors of Housekeeping and Janitorial Workers,2,female
+First-Line Supervisors of Housekeeping and Janitorial Workers,3,female
+Childcare Workers,1,female
+Childcare Workers,2,female
+Childcare Workers,3,female
+Crematory Operators,1,male
+Crematory Operators,2,male
+Crematory Operators,3,male
+"Morticians, Undertakers, and Funeral Arrangers",1,female
+"Morticians, Undertakers, and Funeral Arrangers",2,female
+"Morticians, Undertakers, and Funeral Arrangers",3,female
+Recreation Workers,1,female
+Recreation Workers,2,female
+Recreation Workers,3,female
+Funeral Attendants,1,female
+Funeral Attendants,2,female
+Funeral Attendants,3,female
+Shampooers,1,female
+Shampooers,2,female
+Shampooers,3,female
+"Hairdressers, Hairstylists, and Cosmetologists",1,female
+"Hairdressers, Hairstylists, and Cosmetologists",2,female
+"Hairdressers, Hairstylists, and Cosmetologists",3,female
+Motion Picture Projectionists,1,male
+Motion Picture Projectionists,2,male
+Motion Picture Projectionists,3,male
+Parts Salespersons,1,both
+Parts Salespersons,2,male
+Parts Salespersons,3,male
+"Securities, Commodities, and Financial Services Sales Agents",1,male
+"Securities, Commodities, and Financial Services Sales Agents",2,male
+"Securities, Commodities, and Financial Services Sales Agents",3,male
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",1,both
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",2,both
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",3,both
+Counter and Rental Clerks,1,female
+Counter and Rental Clerks,2,both
+Counter and Rental Clerks,3,female
+Real Estate Sales Agents,1,both
+Real Estate Sales Agents,2,both
+Real Estate Sales Agents,3,both
+Advertising Sales Agents,1,both
+Advertising Sales Agents,2,both
+Advertising Sales Agents,3,both
+Insurance Sales Agents,1,both
+Insurance Sales Agents,2,both
+Insurance Sales Agents,3,both
+Sales Engineers,1,both
+Sales Engineers,2,both
+Sales Engineers,3,both
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",1,both
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",2,both
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",3,both
+"Production, Planning, and Expediting Clerks",1,male
+"Production, Planning, and Expediting Clerks",2,both
+"Production, Planning, and Expediting Clerks",3,both
+"Hotel, Motel, and Resort Desk Clerks",1,female
+"Hotel, Motel, and Resort Desk Clerks",2,female
+"Hotel, Motel, and Resort Desk Clerks",3,female
+Payroll and Timekeeping Clerks,1,female
+Payroll and Timekeeping Clerks,2,female
+Payroll and Timekeeping Clerks,3,female
+"Court, Municipal, and License Clerks",1,female
+"Court, Municipal, and License Clerks",2,female
+"Court, Municipal, and License Clerks",3,female
+Statistical Assistants,1,both
+Statistical Assistants,2,both
+Statistical Assistants,3,both
+"Mail Clerks and Mail Machine Operators, Except Postal Service",1,both
+"Mail Clerks and Mail Machine Operators, Except Postal Service",2,both
+"Mail Clerks and Mail Machine Operators, Except Postal Service",3,both
+"Office Machine Operators, Except Computer",1,female
+"Office Machine Operators, Except Computer",2,female
+"Office Machine Operators, Except Computer",3,female
+Reservation and Transportation Ticket Agents and Travel Clerks,1,female
+Reservation and Transportation Ticket Agents and Travel Clerks,2,female
+Reservation and Transportation Ticket Agents and Travel Clerks,3,female
+"Graders and Sorters, Agricultural Products",1,both
+"Graders and Sorters, Agricultural Products",2,male
+"Graders and Sorters, Agricultural Products",3,both
+Animal Breeders,1,both
+Animal Breeders,2,both
+Animal Breeders,3,both
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",1,male
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",2,male
+"Farmworkers, Farm, Ranch, and Aquacultural Animals",3,male
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",1,both
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",2,male
+"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",3,male
+"Logging Workers, All Other",1,male
+"Logging Workers, All Other",2,male
+"Logging Workers, All Other",3,male
+Log Graders and Scalers,1,male
+Log Graders and Scalers,2,male
+Log Graders and Scalers,3,male
+Carpet Installers,1,male
+Carpet Installers,2,male
+Carpet Installers,3,male
+Hazardous Materials Removal Workers,1,male
+Hazardous Materials Removal Workers,2,male
+Hazardous Materials Removal Workers,3,male
+Carpenters,1,male
+Carpenters,2,male
+Carpenters,3,male
+Drywall and Ceiling Tile Installers,1,male
+Drywall and Ceiling Tile Installers,2,male
+Drywall and Ceiling Tile Installers,3,male
+"Rotary Drill Operators, Oil and Gas",1,male
+"Rotary Drill Operators, Oil and Gas",2,male
+"Rotary Drill Operators, Oil and Gas",3,male
+"Roustabouts, Oil and Gas",1,male
+"Roustabouts, Oil and Gas",2,male
+"Roustabouts, Oil and Gas",3,male
+Solar Thermal Installers and Technicians,1,male
+Solar Thermal Installers and Technicians,2,male
+Solar Thermal Installers and Technicians,3,male
+"Plumbers, Pipefitters, and Steamfitters",1,male
+"Plumbers, Pipefitters, and Steamfitters",2,male
+"Plumbers, Pipefitters, and Steamfitters",3,male
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1,male
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",2,male
+"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",3,male
+Operating Engineers and Other Construction Equipment Operators,1,male
+Operating Engineers and Other Construction Equipment Operators,2,male
+Operating Engineers and Other Construction Equipment Operators,3,male
+Motorcycle Mechanics,1,male
+Motorcycle Mechanics,2,male
+Motorcycle Mechanics,3,male
+"Mobile Heavy Equipment Mechanics, Except Engines",1,male
+"Mobile Heavy Equipment Mechanics, Except Engines",2,male
+"Mobile Heavy Equipment Mechanics, Except Engines",3,male
+Outdoor Power Equipment and Other Small Engine Mechanics,1,male
+Outdoor Power Equipment and Other Small Engine Mechanics,2,male
+Outdoor Power Equipment and Other Small Engine Mechanics,3,male
+Home Appliance Repairers,1,male
+Home Appliance Repairers,2,male
+Home Appliance Repairers,3,male
+Automotive Glass Installers and Repairers,1,male
+Automotive Glass Installers and Repairers,2,male
+Automotive Glass Installers and Repairers,3,male
+"First-Line Supervisors of Mechanics, Installers, and Repairers",1,male
+"First-Line Supervisors of Mechanics, Installers, and Repairers",2,male
+"First-Line Supervisors of Mechanics, Installers, and Repairers",3,male
+"Electric Motor, Power Tool, and Related Repairers",1,male
+"Electric Motor, Power Tool, and Related Repairers",2,male
+"Electric Motor, Power Tool, and Related Repairers",3,male
+Bicycle Repairers,1,male
+Bicycle Repairers,2,male
+Bicycle Repairers,3,male
+"Refractory Materials Repairers, Except Brickmasons",1,male
+"Refractory Materials Repairers, Except Brickmasons",2,male
+"Refractory Materials Repairers, Except Brickmasons",3,male
+Musical Instrument Repairers and Tuners,1,male
+Musical Instrument Repairers and Tuners,2,male
+Musical Instrument Repairers and Tuners,3,male
+Biomass Plant Technicians,1,male
+Biomass Plant Technicians,2,male
+Biomass Plant Technicians,3,male
+"Painting, Coating, and Decorating Workers",1,male
+"Painting, Coating, and Decorating Workers",2,male
+"Painting, Coating, and Decorating Workers",3,male
+"Production Workers, All Other",1,both
+"Production Workers, All Other",2,male
+"Production Workers, All Other",3,male
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",1,male
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2,male
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",3,male
+Medical Appliance Technicians,1,male
+Medical Appliance Technicians,2,both
+Medical Appliance Technicians,3,both
+Biofuels Processing Technicians,1,male
+Biofuels Processing Technicians,2,male
+Biofuels Processing Technicians,3,male
+"Potters, Manufacturing",1,both
+"Potters, Manufacturing",2,both
+"Potters, Manufacturing",3,female
+Metal-Refining Furnace Operators and Tenders,1,male
+Metal-Refining Furnace Operators and Tenders,2,male
+Metal-Refining Furnace Operators and Tenders,3,male
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1,male
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",2,male
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",3,male
+Jewelers and Precious Stone and Metal Workers,1,female
+Jewelers and Precious Stone and Metal Workers,2,female
+Jewelers and Precious Stone and Metal Workers,3,female
+"Bus Drivers, Transit and Intercity",1,male
+"Bus Drivers, Transit and Intercity",2,male
+"Bus Drivers, Transit and Intercity",3,male
+"Airline Pilots, Copilots, and Flight Engineers",1,male
+"Airline Pilots, Copilots, and Flight Engineers",2,male
+"Airline Pilots, Copilots, and Flight Engineers",3,male
+Passenger Attendants,1,female
+Passenger Attendants,2,female
+Passenger Attendants,3,female
+Subway and Streetcar Operators,1,both
+Subway and Streetcar Operators,2,male
+Subway and Streetcar Operators,3,male
+Hoist and Winch Operators,1,male
+Hoist and Winch Operators,2,male
+Hoist and Winch Operators,3,male
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",1,male
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",2,male
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",3,male
+"Packers and Packagers, Hand",1,both
+"Packers and Packagers, Hand",2,both
+"Packers and Packagers, Hand",3,both
+Crane and Tower Operators,1,male
+Crane and Tower Operators,2,male
+Crane and Tower Operators,3,male
+Command and Control Center Officers,1,male
+Command and Control Center Officers,2,male
+Command and Control Center Officers,3,male
+First-Line Supervisors of Weapons Specialists/Crew Members,1,male
+First-Line Supervisors of Weapons Specialists/Crew Members,2,male
+First-Line Supervisors of Weapons Specialists/Crew Members,3,male
+First-Line Supervisors of Air Crew Members,1,male
+First-Line Supervisors of Air Crew Members,2,male
+First-Line Supervisors of Air Crew Members,3,male
+Armored Assault Vehicle Officers,1,male
+Armored Assault Vehicle Officers,2,male
+Armored Assault Vehicle Officers,3,male
+Aircraft Launch and Recovery Specialists,1,male
+Aircraft Launch and Recovery Specialists,2,male
+Aircraft Launch and Recovery Specialists,3,male
+Command and Control Center Specialists,1,male
+Command and Control Center Specialists,2,male
+Command and Control Center Specialists,3,male
+"Military Officer Special and Tactical Operations Leaders, All Other",1,male
+"Military Officer Special and Tactical Operations Leaders, All Other",2,both
+"Military Officer Special and Tactical Operations Leaders, All Other",3,male
+Aircraft Launch and Recovery Officers,1,male
+Aircraft Launch and Recovery Officers,2,male
+Aircraft Launch and Recovery Officers,3,male
