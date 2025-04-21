@@ -2,11 +2,11 @@ import subprocess
 
 models = ["vicuna", "mistral", "llama"]
 prompts = ["title_zero", "title_one", "wo_title_zero", "wo_title_one"]
-num_versions = 3  # 可自定义生成几条描述
+num_versions = 3
 
 for model in models:
     for prompt in prompts:
-        print(f"\n🚀 Running: Model={model} | Prompt={prompt}")
+        print(f"Running: Model={model} | Prompt={prompt}")
         subprocess.run([
             "python", "generate_prompts.py",
             "--prompt", prompt,
