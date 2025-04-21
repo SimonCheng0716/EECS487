@@ -63,7 +63,7 @@ python generate_prompts.py --model vicuna --prompt title_zero
 # Repeat for other models/prompt types (12 total)
 ```
 
-### 3. Evaluate gender perception using GPT-4o
+### 3. Evaluate gender perception using GPT-4o-mini
 
 ```bash
 cd Evaluation
