@@ -92,7 +92,7 @@ Each `.json` file contains:
 ]
 ```
 
-Each `.csv` file (after GPT-4o evaluation):
+Each `.csv` file (after GPT-4o-mini evaluation):
 
 ```
 title,version,gender
