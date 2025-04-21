@@ -28,7 +28,7 @@ model_name = model_dict[args.model]
 
 # Auto device detection
 device = 0 if torch.cuda.is_available() else -1
-print(f"✅ Using {'GPU' if device == 0 else 'CPU'} for {args.model} model")
+print(f"Using {'GPU' if device == 0 else 'CPU'} for {args.model} model")
 
 # Load model and tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -103,4 +103,4 @@ save_path = f"{args.model}_7B_{args.prompt}_sample_10_des.json"
 with open(save_path, "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2, ensure_ascii=False)
 
-print(f"✅ Finished! Saved to {save_path}")
+print(f"Finished! Saved to {save_path}")
