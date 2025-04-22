@@ -8,11 +8,12 @@ This project evaluates how different large language models (LLMs) describe occup
 ├── Data/
 │   └── Occupation Data.xlsx              # O*NET occupation metadata
 ├── Prompt/
-│   └── generate_prompts.py               # Generate prompts using LLMs (Vicuna, Mistral, Llama2)
+│   ├── [Model]/
 ├── Results/
 │   ├── [Model]/
 │   │   ├── CSV/                          # Gender evaluation CSVs
-│   │   └── Visualization/               # Bar chart plots per occupation group
+│   │   └── Visualization/                # Bar chart plots per occupation group
+├── generate_prompts.py                   # Generate prompts using LLMs (Vicuna, Mistral, Llama2) 
 ├── gender_evalution.py                   # Use GPT-4o-mini to infer gender from LLM output
 ├── visualization.py                      # Generate plots and summarize ratios
 ├── README.md
