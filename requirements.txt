@@ -1,0 +1,9 @@
+openai == 0.28.0
+anthropic
+google-generativeai
+numpy
+argparse
+pandas
+matplotlib
+transformers
+tqdm
