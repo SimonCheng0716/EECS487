@@ -132,11 +132,16 @@ pip install -r requirements.txt
 ```
 
 Include:
+- openai == 0.28.0
+- anthropic
+- google-generativeai
+- numpy
+- argparse
 - pandas
 - matplotlib
-- openai
 - transformers
 - tqdm
+
 
 ## Author
 
