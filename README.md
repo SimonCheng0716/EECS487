@@ -145,5 +145,5 @@ Include:
 
 ## Author
 
-Created by [Simon Cheng](https://github.com/SimonCheng0716), Xiaochun Wei for EECS 487 at the University of Michigan.
+Created by [Simon Cheng](https://github.com/SimonCheng0716), [Xiaochun Wei](https://github.com/DanielWeiXC) for EECS 487 at the University of Michigan.
 
