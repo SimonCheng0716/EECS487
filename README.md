@@ -54,6 +54,10 @@ Each model produces multiple descriptions for sampled occupations (10 per type g
 - `Vicuna-7B`
 - `Mistral-7B`
 - `LLaMA2-7B-Chat`
+- `gpt-4`
+- `gpt-4o-mini`
+- `claude-3.5-sonnet`
+- `gemini-1.5-pro`
 
 ## Gender Inference
 
@@ -93,7 +97,8 @@ Example Summary Tables:
 
 ```bash
 # 1. Generate text descriptions
-python generate_prompts.py
+python generate_prompts.py -- Close Sourced Models
+python pipeline_main.py --model [model] --sample [num] --input_csv Occupation_Data.csv --prompt [prompting strategy]
 
 # 2. Evaluate gender from outputs
 python gender_evalution.py
