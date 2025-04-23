@@ -3,7 +3,7 @@
 This project evaluates how different large language models (LLMs) describe occupations and the implicit gender bias reflected in their outputs. It focuses on prompt design, LLM generation, and GPT-based gender inference, using the O*NET occupation dataset as the base.
 
 ## Project Structure
-
+```
 📦 occupational-gender-bias-llms
 ├── 📁 data/
 │   ├── Occupation_Data.xlsx                  # O*NET occupation metadata
@@ -36,7 +36,7 @@ This project evaluates how different large language models (LLMs) describe occup
 ├── 📄 gpt-4o-mini-judger-ability-testing.ipynb # Notebook testing GPT-4o-mini's judgment
 ├── 📄 requirements.txt                        # Python dependencies
 └── 📄 README.md                               # Project overview and instructions
-
+```
 
 ## Prompting Strategies
 
