@@ -79,32 +79,50 @@ Example Summary Tables:
 
 ### `both` Proportion Table
 
-| model      | title_zero | title_one | wo_title_zero | wo_title_one |
-|------------|------------|-----------|----------------|---------------|
-| vicuna_7B  | 0.30       | 0.29      | 0.32           | 0.29          |
-| mistral_7B | 0.26       | 0.27      | 0.28           | 0.28          |
-| llama_7B   | 0.31       | 0.30      | 0.33           | 0.30          |
+| Model        | Title-Included Unconstrained | Title-Included Gender-Neutral | Title-Omitted Unconstrained | Title-Omitted Gender-Neutral |
+|--------------|------------------------------|-------------------------------|-----------------------------|------------------------------|
+| Claude-3.5   | 0.401                        | 0.385                         | 0.374                       | 0.421                        |
+| Gemini-1.5-pro | 0.313                      | 0.380                         | 0.276                       | 0.287                        |
+| GPT-4        | 0.390                        | 0.379                         | 0.330                       | 0.360                        |
+| GPT-4o-mini  | 0.393                        | 0.437                         | 0.373                       | 0.402                        |
+| Vicuna-7B    | 0.303                        | 0.291                         | 0.318                       | 0.286                        |
+| Mistral_7B   | 0.258                        | 0.269                         | 0.221                       | 0.237                        |
+| LLaMA-2-7B   | 0.241                        | 0.263                         | 0.232                       | 0.268                        |
+
 
 ### `male/female` Ratio Table
 
-| model      | title_zero | title_one | wo_title_zero | wo_title_one |
-|------------|------------|-----------|----------------|---------------|
-| vicuna_7B  | 1.10       | 1.12      | 0.95           | 1.00          |
-| mistral_7B | 1.20       | 1.18      | 1.05           | 1.08          |
-| llama_7B   | 1.15       | 1.14      | 1.01           | 1.03          |
+| Model        | Title-Included Unconstrained | Title-Included Gender-Neutral | Title-Omitted Unconstrained | Title-Omitted Gender-Neutral |
+|--------------|------------------------------|-------------------------------|-----------------------------|------------------------------|
+| Claude-3.5   | 2.060                        | 1.699                         | 1.594                       | 1.429                        |
+| Gemini-1.5-pro | 1.474                      | 1.152                         | 1.152                       | 1.159                        |
+| GPT-4        | 1.424                        | 1.310                         | 1.160                       | 1.116                        |
+| GPT-4o-mini  | 1.677                        | 1.637                         | 1.093                       | 1.066                        |
+| Vicuna-7B    | 1.464                        | 1.420                         | 1.355                       | 1.369                        |
+| Mistral_7B   | 1.321                        | 1.309                         | 0.945                       | 0.961                        |
+| LLaMA-2-7B   | 1.325                        | 1.342                         | 1.121                       | 1.278                        |
+
 
 ## How to Run
 
 ```bash
 # 1. Generate text descriptions
 python generate_prompts.py -- Close Sourced Models
-python pipeline_main.py --model [model] --sample [num] --input_csv Occupation_Data.csv --prompt [prompting strategy]
+python pipeline_main.py --model [model] --sample [num] --input_csv Occupation_Data.csv --prompt [prompting strategy] -- Open Sourced Models
 
 # 2. Evaluate gender from outputs
-python gender_evalution.py
+python gender_evalution.py -- Close Sourced Models
+python pipeline_judger.py -- Open Sourced Models
 
 # 3. Visualize results and compute summary
 python visualization.py
+
+#4. Jupyter Notebook Analysis
+analysis.ipynb
+
+#5. Judger Ability Test
+gpt-4o-mini-judger-ability-testing.ipynb
+
 ```
 
 ## Requirements
