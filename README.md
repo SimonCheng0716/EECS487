@@ -4,20 +4,39 @@ This project evaluates how different large language models (LLMs) describe occup
 
 ## Project Structure
 
-```
-├── Data/
-│   └── Occupation Data.xlsx              # O*NET occupation metadata
-├── Prompt/
-│   ├── [Model]/
-├── Results/
-│   ├── [Model]/
-│   │   ├── CSV/                          # Gender evaluation CSVs
-│   │   └── Visualization/                # Bar chart plots per occupation group
-├── generate_prompts.py                   # Generate prompts using LLMs
-├── gender_evalution.py                   # Use GPT-4o-mini to infer gender from LLM output
-├── visualization.py                      # Generate plots and summarize ratios
-├── README.md
-```
+📦 occupational-gender-bias-llms
+├── 📁 data/
+│   ├── Occupation_Data.xlsx                  # O*NET occupation metadata
+│   ├── Occupation_Data.csv                   # Same data in CSV format
+│   └── 📁 external/
+│       ├── md_gender_bias_funpedia_train.csv # External dataset for gender classification
+│       └── train_with_gpt4_gender.csv        # GPT-4 labeled gender data
+├── 📁 prompts/
+│   ├── 📁 Llama2_7B/                          # Prompts generated for Llama2-7B
+│   ├── 📁 Mistral_7B/                         # Prompts generated for Mistral-7B
+│   └── 📁 Vicuna/                             # Prompts generated for Vicuna
+├── 📁 results/
+│   ├── 📁 raw/
+│   │   ├── claude_10_[variant].csv           # Raw LLM outputs with gender inferred
+│   │   ├── gemini_10_[variant].csv
+│   │   └── gpt-4_[variant].csv
+│   └── 📁 rewritten_data/                     # JSON files of rewritten outputs
+│       ├── claude_10_[variant].json
+|       ├── gemini_10_[variant].json
+│       └── gpt-4_[variant].json
+├── 📁 aggregated_results/
+│   ├── both_ratio_by_model_and_variant.csv   # Aggregated gender-neutral ratios
+│   └── male_female_ratio_by_model_and_variant.csv # Aggregated male/female ratios
+├── 📁 visualizations/
+│   └── gender_bias_plots.png                 # Generated plots
+├── 📄 generate_prompts.py                     # Script to generate occupation prompts
+├── 📄 gender_evalution.py                     # Script to infer gender using GPT-4o-mini
+├── 📄 visualization.py                        # Script to visualize gender distributions
+├── 📄 analysis.ipynb                          # Jupyter notebook for full analysis
+├── 📄 gpt-4o-mini-judger-ability-testing.ipynb # Notebook testing GPT-4o-mini's judgment
+├── 📄 requirements.txt                        # Python dependencies
+└── 📄 README.md                               # Project overview and instructions
+
 
 ## Prompting Strategies
 
